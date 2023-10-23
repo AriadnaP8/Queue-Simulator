@@ -1,0 +1,538 @@
+ ( 1, 40, 5) 
+ ( 2, 2, 1) 
+ ( 3, 10, 4) 
+ ( 4, 3, 2) 
+ ( 5, 13, 1) 
+ ( 6, 22, 5) 
+ ( 7, 13, 7) 
+ ( 8, 29, 7) 
+ ( 9, 11, 1) 
+ ( 10, 4, 6) 
+ ( 11, 37, 1) 
+ ( 12, 33, 3) 
+ ( 13, 6, 5) 
+ ( 14, 20, 6) 
+ ( 15, 29, 7) 
+ ( 16, 3, 1) 
+ ( 17, 26, 4) 
+ ( 18, 22, 6) 
+ ( 19, 40, 7) 
+ ( 20, 9, 1) 
+ ( 21, 23, 2) 
+ ( 22, 31, 6) 
+ ( 23, 17, 3) 
+ ( 24, 29, 1) 
+ ( 25, 18, 2) 
+ ( 26, 28, 7) 
+ ( 27, 14, 4) 
+ ( 28, 33, 1) 
+ ( 29, 9, 5) 
+ ( 30, 39, 7) 
+ ( 31, 8, 5) 
+ ( 32, 19, 5) 
+ ( 33, 40, 5) 
+ ( 34, 17, 1) 
+ ( 35, 3, 4) 
+ ( 36, 28, 2) 
+ ( 37, 5, 4) 
+ ( 38, 24, 7) 
+ ( 39, 40, 7) 
+ ( 40, 31, 5) 
+ ( 41, 4, 3) 
+ ( 42, 39, 5) 
+ ( 43, 27, 5) 
+ ( 44, 21, 1) 
+ ( 45, 35, 6) 
+ ( 46, 24, 4) 
+ ( 47, 13, 2) 
+ ( 48, 29, 6) 
+ ( 49, 25, 3) 
+ ( 50, 27, 3) 
+0
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+Server 3:---- Waiting period = 0
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+1
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+Server 3:---- Waiting period = 0
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+2
+Server 1:  ( 2, 2, 1)  ---- Waiting period = 1
+Server 2:---- Waiting period = 0
+Server 3:---- Waiting period = 0
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+3
+Server 1:  ( 4, 3, 2)  ---- Waiting period = 2
+Server 2:  ( 16, 3, 1)  ---- Waiting period = 1
+Server 3:  ( 35, 3, 4)  ---- Waiting period = 4
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+4
+Server 1:  ( 4, 3, 2)  ---- Waiting period = 1
+Server 2:  ( 10, 4, 6)  ---- Waiting period = 6
+Server 3:  ( 35, 3, 4)  ---- Waiting period = 3
+Server 4:  ( 41, 4, 3)  ---- Waiting period = 3
+Server 5:---- Waiting period = 0
+
+
+5
+Server 1:  ( 37, 5, 4)  ---- Waiting period = 4
+Server 2:  ( 10, 4, 6)  ---- Waiting period = 5
+Server 3:  ( 35, 3, 4)  ---- Waiting period = 2
+Server 4:  ( 41, 4, 3)  ---- Waiting period = 2
+Server 5:---- Waiting period = 0
+
+
+6
+Server 1:  ( 37, 5, 4)  ---- Waiting period = 3
+Server 2:  ( 10, 4, 6)  ---- Waiting period = 4
+Server 3:  ( 35, 3, 4)  ---- Waiting period = 1
+Server 4:  ( 41, 4, 3)  ---- Waiting period = 1
+Server 5:  ( 13, 6, 5)  ---- Waiting period = 5
+
+
+7
+Server 1:  ( 37, 5, 4)  ---- Waiting period = 2
+Server 2:  ( 10, 4, 6)  ---- Waiting period = 3
+Server 3:---- Waiting period = 0
+Server 4:---- Waiting period = 0
+Server 5:  ( 13, 6, 5)  ---- Waiting period = 4
+
+
+8
+Server 1:  ( 37, 5, 4)  ---- Waiting period = 1
+Server 2:  ( 10, 4, 6)  ---- Waiting period = 2
+Server 3:  ( 31, 8, 5)  ---- Waiting period = 5
+Server 4:---- Waiting period = 0
+Server 5:  ( 13, 6, 5)  ---- Waiting period = 3
+
+
+9
+Server 1:  ( 20, 9, 1)  ---- Waiting period = 1
+Server 2:  ( 10, 4, 6)  ---- Waiting period = 1
+Server 3:  ( 31, 8, 5)  ---- Waiting period = 4
+Server 4:  ( 29, 9, 5)  ---- Waiting period = 5
+Server 5:  ( 13, 6, 5)  ---- Waiting period = 2
+
+
+10
+Server 1:  ( 3, 10, 4)  ---- Waiting period = 4
+Server 2:---- Waiting period = 0
+Server 3:  ( 31, 8, 5)  ---- Waiting period = 3
+Server 4:  ( 29, 9, 5)  ---- Waiting period = 4
+Server 5:  ( 13, 6, 5)  ---- Waiting period = 1
+
+
+11
+Server 1:  ( 3, 10, 4)  ---- Waiting period = 3
+Server 2:  ( 9, 11, 1)  ---- Waiting period = 1
+Server 3:  ( 31, 8, 5)  ---- Waiting period = 2
+Server 4:  ( 29, 9, 5)  ---- Waiting period = 3
+Server 5:---- Waiting period = 0
+
+
+12
+Server 1:  ( 3, 10, 4)  ---- Waiting period = 2
+Server 2:---- Waiting period = 0
+Server 3:  ( 31, 8, 5)  ---- Waiting period = 1
+Server 4:  ( 29, 9, 5)  ---- Waiting period = 2
+Server 5:---- Waiting period = 0
+
+
+13
+Server 1:  ( 3, 10, 4)  ---- Waiting period = 1
+Server 2:  ( 5, 13, 1)  ---- Waiting period = 1
+Server 3:  ( 7, 13, 7)  ---- Waiting period = 7
+Server 4:  ( 29, 9, 5)  ---- Waiting period = 1
+Server 5:  ( 47, 13, 2)  ---- Waiting period = 2
+
+
+14
+Server 1:  ( 27, 14, 4)  ---- Waiting period = 4
+Server 2:---- Waiting period = 0
+Server 3:  ( 7, 13, 7)  ---- Waiting period = 6
+Server 4:---- Waiting period = 0
+Server 5:  ( 47, 13, 2)  ---- Waiting period = 1
+
+
+15
+Server 1:  ( 27, 14, 4)  ---- Waiting period = 3
+Server 2:---- Waiting period = 0
+Server 3:  ( 7, 13, 7)  ---- Waiting period = 5
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+16
+Server 1:  ( 27, 14, 4)  ---- Waiting period = 2
+Server 2:---- Waiting period = 0
+Server 3:  ( 7, 13, 7)  ---- Waiting period = 4
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+17
+Server 1:  ( 27, 14, 4)  ---- Waiting period = 1
+Server 2:  ( 23, 17, 3)  ---- Waiting period = 3
+Server 3:  ( 7, 13, 7)  ---- Waiting period = 3
+Server 4:  ( 34, 17, 1)  ---- Waiting period = 1
+Server 5:---- Waiting period = 0
+
+
+18
+Server 1:  ( 25, 18, 2)  ---- Waiting period = 2
+Server 2:  ( 23, 17, 3)  ---- Waiting period = 2
+Server 3:  ( 7, 13, 7)  ---- Waiting period = 2
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+19
+Server 1:  ( 25, 18, 2)  ---- Waiting period = 1
+Server 2:  ( 23, 17, 3)  ---- Waiting period = 1
+Server 3:  ( 7, 13, 7)  ---- Waiting period = 1
+Server 4:  ( 32, 19, 5)  ---- Waiting period = 5
+Server 5:---- Waiting period = 0
+
+
+20
+Server 1:  ( 14, 20, 6)  ---- Waiting period = 6
+Server 2:---- Waiting period = 0
+Server 3:---- Waiting period = 0
+Server 4:  ( 32, 19, 5)  ---- Waiting period = 4
+Server 5:---- Waiting period = 0
+
+
+21
+Server 1:  ( 14, 20, 6)  ---- Waiting period = 5
+Server 2:  ( 44, 21, 1)  ---- Waiting period = 1
+Server 3:---- Waiting period = 0
+Server 4:  ( 32, 19, 5)  ---- Waiting period = 3
+Server 5:---- Waiting period = 0
+
+
+22
+Server 1:  ( 14, 20, 6)  ---- Waiting period = 4
+Server 2:  ( 6, 22, 5)  ---- Waiting period = 5
+Server 3:  ( 18, 22, 6)  ---- Waiting period = 6
+Server 4:  ( 32, 19, 5)  ---- Waiting period = 2
+Server 5:---- Waiting period = 0
+
+
+23
+Server 1:  ( 14, 20, 6)  ---- Waiting period = 3
+Server 2:  ( 6, 22, 5)  ---- Waiting period = 4
+Server 3:  ( 18, 22, 6)  ---- Waiting period = 5
+Server 4:  ( 32, 19, 5)  ---- Waiting period = 1
+Server 5:  ( 21, 23, 2)  ---- Waiting period = 2
+
+
+24
+Server 1:  ( 14, 20, 6)  ---- Waiting period = 2
+Server 2:  ( 6, 22, 5)  ---- Waiting period = 3
+Server 3:  ( 18, 22, 6)  ---- Waiting period = 4
+Server 4:  ( 38, 24, 7)  ---- Waiting period = 7
+Server 5:  ( 21, 23, 2)    ( 46, 24, 4)  ---- Waiting period = 5
+
+
+25
+Server 1:  ( 14, 20, 6)    ( 49, 25, 3)  ---- Waiting period = 4
+Server 2:  ( 6, 22, 5)  ---- Waiting period = 2
+Server 3:  ( 18, 22, 6)  ---- Waiting period = 3
+Server 4:  ( 38, 24, 7)  ---- Waiting period = 6
+Server 5:  ( 46, 24, 4)  ---- Waiting period = 4
+
+
+26
+Server 1:  ( 49, 25, 3)  ---- Waiting period = 3
+Server 2:  ( 6, 22, 5)    ( 17, 26, 4)  ---- Waiting period = 5
+Server 3:  ( 18, 22, 6)  ---- Waiting period = 2
+Server 4:  ( 38, 24, 7)  ---- Waiting period = 5
+Server 5:  ( 46, 24, 4)  ---- Waiting period = 3
+
+
+27
+Server 1:  ( 49, 25, 3)    ( 50, 27, 3)  ---- Waiting period = 5
+Server 2:  ( 17, 26, 4)  ---- Waiting period = 4
+Server 3:  ( 18, 22, 6)    ( 43, 27, 5)  ---- Waiting period = 6
+Server 4:  ( 38, 24, 7)  ---- Waiting period = 4
+Server 5:  ( 46, 24, 4)  ---- Waiting period = 2
+
+
+28
+Server 1:  ( 49, 25, 3)    ( 50, 27, 3)  ---- Waiting period = 4
+Server 2:  ( 17, 26, 4)    ( 36, 28, 2)  ---- Waiting period = 5
+Server 3:  ( 43, 27, 5)  ---- Waiting period = 5
+Server 4:  ( 38, 24, 7)  ---- Waiting period = 3
+Server 5:  ( 46, 24, 4)    ( 26, 28, 7)  ---- Waiting period = 8
+
+
+29
+Server 1:  ( 50, 27, 3)    ( 15, 29, 7)  ---- Waiting period = 10
+Server 2:  ( 17, 26, 4)    ( 36, 28, 2)    ( 24, 29, 1)  ---- Waiting period = 5
+Server 3:  ( 43, 27, 5)    ( 48, 29, 6)  ---- Waiting period = 10
+Server 4:  ( 38, 24, 7)    ( 8, 29, 7)  ---- Waiting period = 9
+Server 5:  ( 26, 28, 7)  ---- Waiting period = 7
+
+
+30
+Server 1:  ( 50, 27, 3)    ( 15, 29, 7)  ---- Waiting period = 9
+Server 2:  ( 17, 26, 4)    ( 36, 28, 2)    ( 24, 29, 1)  ---- Waiting period = 4
+Server 3:  ( 43, 27, 5)    ( 48, 29, 6)  ---- Waiting period = 9
+Server 4:  ( 38, 24, 7)    ( 8, 29, 7)  ---- Waiting period = 8
+Server 5:  ( 26, 28, 7)  ---- Waiting period = 6
+
+
+31
+Server 1:  ( 50, 27, 3)    ( 15, 29, 7)  ---- Waiting period = 8
+Server 2:  ( 36, 28, 2)    ( 24, 29, 1)    ( 22, 31, 6)  ---- Waiting period = 9
+Server 3:  ( 43, 27, 5)    ( 48, 29, 6)  ---- Waiting period = 8
+Server 4:  ( 8, 29, 7)  ---- Waiting period = 7
+Server 5:  ( 26, 28, 7)    ( 40, 31, 5)  ---- Waiting period = 10
+
+
+32
+Server 1:  ( 15, 29, 7)  ---- Waiting period = 7
+Server 2:  ( 36, 28, 2)    ( 24, 29, 1)    ( 22, 31, 6)  ---- Waiting period = 8
+Server 3:  ( 43, 27, 5)    ( 48, 29, 6)  ---- Waiting period = 7
+Server 4:  ( 8, 29, 7)  ---- Waiting period = 6
+Server 5:  ( 26, 28, 7)    ( 40, 31, 5)  ---- Waiting period = 9
+
+
+33
+Server 1:  ( 15, 29, 7)    ( 28, 33, 1)  ---- Waiting period = 7
+Server 2:  ( 24, 29, 1)    ( 22, 31, 6)  ---- Waiting period = 7
+Server 3:  ( 48, 29, 6)  ---- Waiting period = 6
+Server 4:  ( 8, 29, 7)    ( 12, 33, 3)  ---- Waiting period = 8
+Server 5:  ( 26, 28, 7)    ( 40, 31, 5)  ---- Waiting period = 8
+
+
+34
+Server 1:  ( 15, 29, 7)    ( 28, 33, 1)  ---- Waiting period = 6
+Server 2:  ( 22, 31, 6)  ---- Waiting period = 6
+Server 3:  ( 48, 29, 6)  ---- Waiting period = 5
+Server 4:  ( 8, 29, 7)    ( 12, 33, 3)  ---- Waiting period = 7
+Server 5:  ( 26, 28, 7)    ( 40, 31, 5)  ---- Waiting period = 7
+
+
+35
+Server 1:  ( 15, 29, 7)    ( 28, 33, 1)  ---- Waiting period = 5
+Server 2:  ( 22, 31, 6)  ---- Waiting period = 5
+Server 3:  ( 48, 29, 6)    ( 45, 35, 6)  ---- Waiting period = 10
+Server 4:  ( 8, 29, 7)    ( 12, 33, 3)  ---- Waiting period = 6
+Server 5:  ( 26, 28, 7)    ( 40, 31, 5)  ---- Waiting period = 6
+
+
+36
+Server 1:  ( 15, 29, 7)    ( 28, 33, 1)  ---- Waiting period = 4
+Server 2:  ( 22, 31, 6)  ---- Waiting period = 4
+Server 3:  ( 48, 29, 6)    ( 45, 35, 6)  ---- Waiting period = 9
+Server 4:  ( 8, 29, 7)    ( 12, 33, 3)  ---- Waiting period = 5
+Server 5:  ( 40, 31, 5)  ---- Waiting period = 5
+
+
+37
+Server 1:  ( 15, 29, 7)    ( 28, 33, 1)    ( 11, 37, 1)  ---- Waiting period = 4
+Server 2:  ( 22, 31, 6)  ---- Waiting period = 3
+Server 3:  ( 48, 29, 6)    ( 45, 35, 6)  ---- Waiting period = 8
+Server 4:  ( 8, 29, 7)    ( 12, 33, 3)  ---- Waiting period = 4
+Server 5:  ( 40, 31, 5)  ---- Waiting period = 4
+
+
+38
+Server 1:  ( 15, 29, 7)    ( 28, 33, 1)    ( 11, 37, 1)  ---- Waiting period = 3
+Server 2:  ( 22, 31, 6)  ---- Waiting period = 2
+Server 3:  ( 48, 29, 6)    ( 45, 35, 6)  ---- Waiting period = 7
+Server 4:  ( 12, 33, 3)  ---- Waiting period = 3
+Server 5:  ( 40, 31, 5)  ---- Waiting period = 3
+
+
+39
+Server 1:  ( 28, 33, 1)    ( 11, 37, 1)    ( 42, 39, 5)  ---- Waiting period = 7
+Server 2:  ( 22, 31, 6)    ( 30, 39, 7)  ---- Waiting period = 8
+Server 3:  ( 45, 35, 6)  ---- Waiting period = 6
+Server 4:  ( 12, 33, 3)  ---- Waiting period = 2
+Server 5:  ( 40, 31, 5)  ---- Waiting period = 2
+
+
+40
+Server 1:  ( 11, 37, 1)    ( 42, 39, 5)    ( 39, 40, 7)  ---- Waiting period = 13
+Server 2:  ( 30, 39, 7)  ---- Waiting period = 7
+Server 3:  ( 45, 35, 6)    ( 33, 40, 5)  ---- Waiting period = 10
+Server 4:  ( 12, 33, 3)    ( 1, 40, 5)  ---- Waiting period = 6
+Server 5:  ( 40, 31, 5)    ( 19, 40, 7)  ---- Waiting period = 8
+
+
+41
+Server 1:  ( 42, 39, 5)    ( 39, 40, 7)  ---- Waiting period = 12
+Server 2:  ( 30, 39, 7)  ---- Waiting period = 6
+Server 3:  ( 45, 35, 6)    ( 33, 40, 5)  ---- Waiting period = 9
+Server 4:  ( 1, 40, 5)  ---- Waiting period = 5
+Server 5:  ( 19, 40, 7)  ---- Waiting period = 7
+
+
+42
+Server 1:  ( 42, 39, 5)    ( 39, 40, 7)  ---- Waiting period = 11
+Server 2:  ( 30, 39, 7)  ---- Waiting period = 5
+Server 3:  ( 45, 35, 6)    ( 33, 40, 5)  ---- Waiting period = 8
+Server 4:  ( 1, 40, 5)  ---- Waiting period = 4
+Server 5:  ( 19, 40, 7)  ---- Waiting period = 6
+
+
+43
+Server 1:  ( 42, 39, 5)    ( 39, 40, 7)  ---- Waiting period = 10
+Server 2:  ( 30, 39, 7)  ---- Waiting period = 4
+Server 3:  ( 45, 35, 6)    ( 33, 40, 5)  ---- Waiting period = 7
+Server 4:  ( 1, 40, 5)  ---- Waiting period = 3
+Server 5:  ( 19, 40, 7)  ---- Waiting period = 5
+
+
+44
+Server 1:  ( 42, 39, 5)    ( 39, 40, 7)  ---- Waiting period = 9
+Server 2:  ( 30, 39, 7)  ---- Waiting period = 3
+Server 3:  ( 45, 35, 6)    ( 33, 40, 5)  ---- Waiting period = 6
+Server 4:  ( 1, 40, 5)  ---- Waiting period = 2
+Server 5:  ( 19, 40, 7)  ---- Waiting period = 4
+
+
+45
+Server 1:  ( 42, 39, 5)    ( 39, 40, 7)  ---- Waiting period = 8
+Server 2:  ( 30, 39, 7)  ---- Waiting period = 2
+Server 3:  ( 33, 40, 5)  ---- Waiting period = 5
+Server 4:  ( 1, 40, 5)  ---- Waiting period = 1
+Server 5:  ( 19, 40, 7)  ---- Waiting period = 3
+
+
+46
+Server 1:  ( 39, 40, 7)  ---- Waiting period = 7
+Server 2:  ( 30, 39, 7)  ---- Waiting period = 1
+Server 3:  ( 33, 40, 5)  ---- Waiting period = 4
+Server 4:---- Waiting period = 0
+Server 5:  ( 19, 40, 7)  ---- Waiting period = 2
+
+
+47
+Server 1:  ( 39, 40, 7)  ---- Waiting period = 6
+Server 2:---- Waiting period = 0
+Server 3:  ( 33, 40, 5)  ---- Waiting period = 3
+Server 4:---- Waiting period = 0
+Server 5:  ( 19, 40, 7)  ---- Waiting period = 1
+
+
+48
+Server 1:  ( 39, 40, 7)  ---- Waiting period = 5
+Server 2:---- Waiting period = 0
+Server 3:  ( 33, 40, 5)  ---- Waiting period = 2
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+49
+Server 1:  ( 39, 40, 7)  ---- Waiting period = 4
+Server 2:---- Waiting period = 0
+Server 3:  ( 33, 40, 5)  ---- Waiting period = 1
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+50
+Server 1:  ( 39, 40, 7)  ---- Waiting period = 3
+Server 2:---- Waiting period = 0
+Server 3:---- Waiting period = 0
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+51
+Server 1:  ( 39, 40, 7)  ---- Waiting period = 2
+Server 2:---- Waiting period = 0
+Server 3:---- Waiting period = 0
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+52
+Server 1:  ( 39, 40, 7)  ---- Waiting period = 1
+Server 2:---- Waiting period = 0
+Server 3:---- Waiting period = 0
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+53
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+Server 3:---- Waiting period = 0
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+54
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+Server 3:---- Waiting period = 0
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+55
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+Server 3:---- Waiting period = 0
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+56
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+Server 3:---- Waiting period = 0
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+57
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+Server 3:---- Waiting period = 0
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+58
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+Server 3:---- Waiting period = 0
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+59
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+Server 3:---- Waiting period = 0
+Server 4:---- Waiting period = 0
+Server 5:---- Waiting period = 0
+
+
+[]
+[]
+[]
+[]
+[]
+~ Valoarea timpului mediu de asteptare a fost 1.3 secunde. ~
+~ Ora de varf a fost 29 secunde, cand s-au aflat 10 task-uri la servere. ~
+~ Timpul de servire/asteptare mediu a fost de 4.02 secunde. ~

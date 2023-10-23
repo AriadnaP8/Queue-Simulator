@@ -1,0 +1,99 @@
+ ( 1, 2, 3) 
+ ( 2, 4, 4) 
+ ( 3, 2, 3) 
+ ( 4, 3, 2) 
+0
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+
+
+1
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+
+
+2
+Server 1:  ( 1, 2, 3)  ---- Waiting period = 3
+Server 2:  ( 3, 2, 3)  ---- Waiting period = 3
+
+
+3
+Server 1:  ( 1, 2, 3)    ( 4, 3, 2)  ---- Waiting period = 4
+Server 2:  ( 3, 2, 3)  ---- Waiting period = 2
+
+
+4
+Server 1:  ( 1, 2, 3)    ( 4, 3, 2)  ---- Waiting period = 3
+Server 2:  ( 3, 2, 3)    ( 2, 4, 4)  ---- Waiting period = 5
+
+
+5
+Server 1:  ( 4, 3, 2)  ---- Waiting period = 2
+Server 2:  ( 2, 4, 4)  ---- Waiting period = 4
+
+
+6
+Server 1:  ( 4, 3, 2)  ---- Waiting period = 1
+Server 2:  ( 2, 4, 4)  ---- Waiting period = 3
+
+
+7
+Server 1:---- Waiting period = 0
+Server 2:  ( 2, 4, 4)  ---- Waiting period = 2
+
+
+8
+Server 1:---- Waiting period = 0
+Server 2:  ( 2, 4, 4)  ---- Waiting period = 1
+
+
+9
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+
+
+10
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+
+
+11
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+
+
+12
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+
+
+13
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+
+
+14
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+
+
+15
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+
+
+16
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+
+
+17
+Server 1:---- Waiting period = 0
+Server 2:---- Waiting period = 0
+
+
+[]
+[]
+~ Valoarea timpului mediu de asteptare a fost 0.75secunde. ~
+~ Ora de varf a fost 4 secunde, cand s-au aflat 4 task-uri la servere. ~
+~ Timpul de servire/asteptare mediu a fost de 3.0 secunde. ~
